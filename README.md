@@ -8,11 +8,12 @@
 
 Open Broadcaster Software (OBS)
 
-´´´bash
+```bash
 sudo add-apt-repository ppa:obsproject/obs-studio
 sudo apt update
 sudo apt install obs-studio
-´´´
+```
+
 ## Edit video
 
 [Shotcut](https://www.shotcutapp.com/download/)
