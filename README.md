@@ -2,6 +2,7 @@
 
 # Index
 - [Screen recorder](#screen-recorder)
+- [Edit video](#edit-video)
 
 ## Screen recorder
 
