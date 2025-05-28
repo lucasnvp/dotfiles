@@ -6,3 +6,8 @@
 
 `git clone https://github.com/lcpz/lain.git lain`
 
+## TODO
+
+- [ ] Key binding
+- [ ] Theme
+- [ ] Copy icons
